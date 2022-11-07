@@ -1,23 +1,23 @@
-# sms-spam-ham-detector 📱
-
-A simple web app to detect SMS as spam or ham(not spam) using Python Flask and Naïve Bayes classifiers.
-
-
-### Blog at:[Towards Data Science](https://towardsdatascience.com/the-ultimate-guide-to-sms-spam-or-ham-detector-aec467aecd85)
-
-
-> The approach for this project aligns more with Artificial Intelligence (COMP 472) course.
-
-
-![sms-spam-ham-detector](https://user-images.githubusercontent.com/25213850/88257771-3f98b580-ccde-11ea-9e03-c1b5323ab387.gif)
-
-
-
-**Live at:** [Spam or Ham | SMS Detector](https://sms-spam-ham-detector.herokuapp.com)
-
-
-
-# Sneak Peek
-
-
-![Web Screenshot](/images/webscreen.png)
+# UTS Text Mining
+<table>
+   <tr>
+     <td><b>NAMA</b></td>
+     <td><b>ALFARUQ MARSALSANI S</b></td>
+   </tr>
+  <tr>
+     <td><b>NIM</b></td>
+     <td><b>20.01.53.0040</b></td>
+   </tr>
+  <tr>
+     <td><b>PRODI</b></td>
+     <td><b>S1 - TEKNIK INFORMATIKA</b></td>
+   </tr>
+  <tr>
+     <td><b>MATA KULIAH</b></td>
+     <td><b>TEXT MINING A1</b></td>
+   </tr>
+  <tr>
+     <td><b>PENGAMPU</b></td>
+     <td><b>Dr. Drs. ERI ZULIARSO, M.Kom.</b></td>
+   </tr>
+</table>
